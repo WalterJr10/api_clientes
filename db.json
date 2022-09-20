@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Hector Moraes",
+      "empresa": "Hector Construcciones de Edificios",
+      "email": "hectorconstruye@const.com",
+      "telefono": "200920221805",
+      "notas": "Crear sistema con galería de fotos.\n",
+      "id": 1
+    },
+    {
+      "nombre": "Ignacio Arbaca",
+      "empresa": "Club Atletico Chilenos de Chile unida por el deporte",
+      "email": "ignaciochi@chile.com",
+      "telefono": "180820092022",
+      "notas": "Crear aplicacion web",
+      "id": 2
+    },
+    {
+      "nombre": "Daniel Alberto Passarella",
+      "empresa": "Club Atlético RiBer Play",
+      "email": "kaiserpasarela@rib.com",
+      "telefono": "26062011",
+      "notas": "Evitar el descenso",
+      "id": 3
+    },
+    {
+      "nombre": "Victoria Missisipi",
+      "empresa": "MissVictoria - Uñas",
+      "email": "missvicto@correo.com",
+      "telefono": "",
+      "notas": "Realizar aplicacion web para administrar turnos de la empresa.",
+      "id": 4
+    },
+    {
+      "nombre": "María Zulema Doly",
+      "empresa": "Estudio Jurídico - Doly",
+      "email": "doly@correo.com",
+      "telefono": "1478523690",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Martina de los Angeles Az",
+      "empresa": "Az Cocina",
+      "email": "martinadelosageles@correo.com",
+      "telefono": "1597530258741",
+      "notas": "Realizar sistema ",
+      "id": 6
+    }
+  ]
+}
